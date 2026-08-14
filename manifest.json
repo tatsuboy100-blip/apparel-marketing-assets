@@ -1,0 +1,29 @@
+{
+  "account": "apparel_produce",
+  "account_id": "17841443276333023",
+  "schedule": "3x/day, alternating odd/even days: odd days 09:00/15:00/21:00 JST, even days 10:00/16:00/22:00 JST",
+  "style_note": "Charcoal + dusty rose design matching the existing note icon/header brand (not the pink TYPE LAB style used for the typelabo1024 account). All posts are 5-image carousels. Each carousel is also posted image-by-image to Stories. Captions avoid repeated closing templates and always nudge toward the bio link with varied phrasing.",
+  "queue": [
+    {
+      "id": "c1-intro",
+      "type": "carousel",
+      "images": ["c1-01.jpg", "c1-02.jpg", "c1-03.jpg", "c1-04.jpg", "c1-05.jpg"],
+      "caption": "接客の「もっと積極的に」がしんどい人へ。\n声かけの数より、自分のタイプに合った接客ができているかの方が大事です。\n4つの接客タイプ診断、プロフィールのリンクから受けられます。\n#接客タイプ診断 #アパレル販売員 #美容師 #ネイリスト #自己分析",
+      "posted": false
+    },
+    {
+      "id": "c2-four-types",
+      "type": "carousel",
+      "images": ["c2-01.jpg", "c2-02.jpg", "c2-03.jpg", "c2-04.jpg", "c2-05.jpg"],
+      "caption": "接客スタイルは大きく4つに分かれます。\nスタイリング提案型、寄り添いヒアリング型、売上貢献型、トレンド発信型。\nあなたはどれですか？プロフィールのリンクから診断できます。\n#接客タイプ診断 #アパレル販売員 #美容師 #ネイリスト #自己分析",
+      "posted": false
+    },
+    {
+      "id": "c3-tips",
+      "type": "carousel",
+      "images": ["c3-01.jpg", "c3-02.jpg", "c3-03.jpg", "c3-04.jpg", "c3-05.jpg"],
+      "caption": "接客がうまくいかない時、実はタイプに合わない接客をしていることがあります。\n自分のタイプを知ると、無理せず伸ばせる部分が見えてきます。詳しくはプロフィールへ。\n#接客タイプ診断 #アパレル販売員 #美容師 #ネイリスト #自己分析",
+      "posted": false
+    }
+  ]
+}
