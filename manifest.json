@@ -2,7 +2,7 @@
   "account": "apparel_produce",
   "account_id": "17841443276333023",
   "schedule": "3x/day, alternating odd/even days: odd days 09:00/15:00/21:00 JST, even days 10:00/16:00/22:00 JST",
-  "style_note": "Charcoal + dusty rose design matching the existing note icon/header brand (not the pink TYPE LAB style used for the typelabo1024 account). All posts are 5-image carousels. Each carousel is also posted image-by-image to Stories. Captions avoid repeated closing templates and always nudge toward the bio link with varied phrasing.",
+  "style_note": "Pink design (matching the TYPE LAB / typelabo1024 style) as of 2026-08-15, replacing the earlier charcoal+rose look per user request. All posts are 5-image carousels with page-number badge (n/5), footer reads 'APPAREL PRODUCE'. Each carousel is also posted image-by-image to Stories. Captions avoid repeated closing templates and always nudge toward the bio link with varied phrasing.",
   "queue": [
     {
       "id": "c1-intro",
@@ -15,16 +15,7 @@
         "c1-05.jpg"
       ],
       "caption": "接客の「もっと積極的に」がしんどい人へ。\n声かけの数より、自分のタイプに合った接客ができているかの方が大事です。\n4つの接客タイプ診断、プロフィールのリンクから受けられます。\n#接客タイプ診断 #アパレル販売員 #美容師 #ネイリスト #自己分析",
-      "posted": true,
-      "posted_at": "2026-08-14",
-      "media_id": "17899107996560180",
-      "story_media_ids": [
-        "18163486501467225",
-        "17982139394881168",
-        "18108598646085632",
-        "17913672021442326",
-        "18100524317252022"
-      ]
+      "posted": false
     },
     {
       "id": "c2-four-types",
@@ -63,16 +54,7 @@
         "s1-05.jpg"
       ],
       "caption": "「もっと丁寧に」と言われても、具体的に何を変えればいいか分からない。\nそんな時は、自分の接客タイプを知るのが近道です。\n4つの接客タイプ診断、プロフィールのリンクから受けられます。\n#接客タイプ診断 #美容師 #ネイリスト #スタッフ診断 #自己分析",
-      "posted": true,
-      "posted_at": "2026-08-14",
-      "media_id": "18330259351276944",
-      "story_media_ids": [
-        "18121857605487273",
-        "18409714399159630",
-        "18098096747018403",
-        "18125432680764915",
-        "18109577372009378"
-      ]
+      "posted": false
     },
     {
       "id": "s2-four-types",
