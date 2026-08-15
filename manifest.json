@@ -53,7 +53,10 @@
         "c3-05.jpg"
       ],
       "caption": "接客がうまくいかない時、実はタイプに合わない接客をしていることがあります。\n自分のタイプを知ると、無理せず伸ばせる部分が見えてきます。詳しくはプロフィールへ。\n#接客タイプ診断 #アパレル販売員 #美容師 #ネイリスト #自己分析",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-15",
+      "media_id": "17886703962447226",
+      "note": "Detected via scheduled monitoring cron (repo write failed with the usual 403 at post time, fixed after the fact). Story posting outcome not verified this time -- stories expire in 24h and weren't checked."
     },
     {
       "id": "s1-intro",
