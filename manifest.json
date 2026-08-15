@@ -69,7 +69,10 @@
         "s1-05.jpg"
       ],
       "caption": "「もっと丁寧に」と言われても、具体的に何を変えればいいか分からない。\nそんな時は、自分の接客タイプを知るのが近道です。\n4つの接客タイプ診断、プロフィールのリンクから受けられます。\n#接客タイプ診断 #美容師 #ネイリスト #スタッフ診断 #自己分析",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-15",
+      "media_id": "18163226848464971",
+      "note": "Detected via scheduled monitoring cron (repo write failed with the usual 403 at post time, fixed after the fact). Story posting outcome not verified this time -- stories expire in 24h and weren't checked."
     },
     {
       "id": "s2-four-types",
