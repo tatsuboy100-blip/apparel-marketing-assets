@@ -37,7 +37,11 @@
         "c2-05.jpg"
       ],
       "caption": "接客スタイルは大きく4つに分かれます。\nスタイリング提案型、寄り添いヒアリング型、売上貢献型、トレンド発信型。\nあなたはどれですか？プロフィールのリンクから診断できます。\n#接客タイプ診断 #アパレル販売員 #美容師 #ネイリスト #自己分析",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-15",
+      "media_id": "18127257433777411",
+      "duplicate_media_id": "18101745355964462",
+      "note": "Posted TWICE by the same routine run: the environment restarted mid-run (visible in the run log as a second init/env-restart sequence) and the whole posting flow re-executed from scratch, so both create_carousel_post calls actually succeeded on Instagram. Stories (5 images) were also likely posted twice. media_id is the one this routine intended to record; duplicate_media_id is the earlier duplicate post -- the user needs to delete one of them manually in the Instagram app (Windsor.ai has no delete action). GitHub write access then also failed with the same 403 as usual, compounding the confusion."
     },
     {
       "id": "c3-tips",
