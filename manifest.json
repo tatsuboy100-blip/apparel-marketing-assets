@@ -124,7 +124,10 @@
         "s4-05.jpg"
       ],
       "caption": "お客様のタイプに合わせて接客を変えていますか。\n\nじっくり選びたい人には急かさず、すぐ決めたい人にはテンポよく。自分と相手のタイプ、プロフィールのリンクから診断できます。\n#接客タイプ診断 #アパレル販売員 #美容師 #ネイリスト #自己分析",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-18",
+      "media_id": "18120265717894465",
+      "note": "Detected via scheduled monitoring cron (repo write failed with the usual 403 at post time, fixed after the fact)."
     },
     {
       "id": "s5",
@@ -137,7 +140,10 @@
         "s5-05.jpg"
       ],
       "caption": "また会いたいと思われる接客、実はタイプによってコツが違います。\n\n覚えてもらう強みを伸ばすか、頼ってもらう強みを伸ばすか。自分のタイプ、プロフィールのリンクから確認できます。\n#接客タイプ診断 #アパレル販売員 #美容師 #ネイリスト",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-18",
+      "media_id": "18122196019632120",
+      "note": "Detected via scheduled monitoring cron (repo write failed with the usual 403 at post time, fixed after the fact)."
     },
     {
       "id": "s6",
