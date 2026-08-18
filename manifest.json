@@ -101,7 +101,17 @@
         "s3-05.jpg"
       ],
       "caption": "指名が伸び悩む時、実はタイプに合わない接客をしていることがあります。\n自分のタイプを知ると、無理せず伸ばせる部分が見えてきます。詳しくはプロフィールへ。\n#接客タイプ診断 #美容師 #ネイリスト #スタッフ診断 #自己分析",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-18",
+      "media_id": "18120306979848265",
+      "story_media_ids": [
+        "18580961554066284",
+        "18026233217849823",
+        "17865804177645592",
+        "18066076853651455",
+        "18102306980581683"
+      ],
+      "note": "Fixed manually after routine run 's posted-flag push failed with 403 (GitHub App lacks contents:write). Instagram post itself succeeded at 2026-08-18T01:09Z; this entry was stuck as posted:false and at risk of duplicate re-posting on the next scheduled run."
     },
     {
       "id": "s4",
